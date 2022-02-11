@@ -13,7 +13,7 @@
 # Welcome to the website!
 |Table|
 
-!(Images/Screen Shot 2022-01-27 at 8.40.01 AM.png)
+! Imagetest (Images/Screen Shot 2022-01-27 at 8.40.01 AM.png)
 
 ## License:
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
